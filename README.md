@@ -1,3 +1,5 @@
+<img src="icon.ico" alt="App Icon" width="128">
+
 This is a very basic Timer / StopWatch application made in Python.
 
 Developed in MacOS.
