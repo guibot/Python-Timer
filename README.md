@@ -7,6 +7,9 @@ Useful for setting a specific time and perform a task.
 Developed in MacOS.
 The APP works in MacOS, will add Windows and Linux support.
 
+Check Releases:
+https://github.com/guibot/Python-Timer/releases/
+
 Icon:
 
 <img src="icon.ico" alt="App Icon" width="64">
